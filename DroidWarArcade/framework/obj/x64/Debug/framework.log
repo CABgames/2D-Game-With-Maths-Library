@@ -1,0 +1,12 @@
+﻿  Application.cpp
+  Font.cpp
+  FontManager.cpp
+  Input.cpp
+  Sprite.cpp
+  SpriteManager.cpp
+  Texture.cpp
+  TextureManager.cpp
+  UGFW.cpp
+  Generating Code...
+  gl_core_4_4.c
+  framework.vcxproj -> F:\University\Level 4\CT4019 Programming and Mathematics for Games\CT4019 part 2\Complete\CT4019 SUBMISSION Programming and Maths SECOND SEMMESTER\DroidWarArcade\framework\lib\x64\Debug\framework.lib

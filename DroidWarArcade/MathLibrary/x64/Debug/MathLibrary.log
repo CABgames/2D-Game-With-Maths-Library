@@ -1,0 +1,7 @@
+﻿D:\VisualStudio\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (MathsLibrary.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  CMatrix3.cpp
+  CVector2.cpp
+  CVector3.cpp
+f:\university\level 4\ct4019 programming and mathematics for games\ct4019 part 2\complete\ct4019 submission programming and maths second semmester\droidwararcade\mathlibrary\cvector3.cpp(109): warning C4244: 'return': conversion from 'double' to 'const float', possible loss of data
+  Generating Code...
+  MathLibrary.vcxproj -> F:\University\Level 4\CT4019 Programming and Mathematics for Games\CT4019 part 2\Complete\CT4019 SUBMISSION Programming and Maths SECOND SEMMESTER\DroidWarArcade\MathLibrary\x64\Debug\MathLibrary.lib

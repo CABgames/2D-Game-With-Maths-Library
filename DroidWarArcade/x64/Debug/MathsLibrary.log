@@ -1,0 +1,4 @@
+﻿  Vector2.cpp
+c:\users\s1707038\desktop\droidwararcade\mathslibrary\vector2.cpp(28): error C3867: 'Vector2::GetX': non-standard syntax; use '&' to create a pointer to member
+c:\users\s1707038\desktop\droidwararcade\mathslibrary\vector2.cpp(28): error C2297: '*': illegal, right operand has type 'float (__cdecl Vector2::* )(void) const'
+c:\users\s1707038\desktop\droidwararcade\mathslibrary\vector2.cpp(28): error C3867: 'Vector2::GetY': non-standard syntax; use '&' to create a pointer to member
